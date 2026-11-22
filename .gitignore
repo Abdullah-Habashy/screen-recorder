@@ -1,0 +1,5 @@
+﻿build/
+dist/
+*.spec
+ScreenRecorder.zip
+__pycache__/
